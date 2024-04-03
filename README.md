@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on backend development<br>👯 I’m looking to collaborate on full stack projects<br>🤝 I’m looking for help with  cybersecurity<br>🌱 I’m currently learning AI/ML<br>💬 I'm also passionate about photography<br>⚡ My other talents- I sing and a have a youtube channel @simmithapad
+🔭 I’m currently working on backend development<br>👯 I’m looking to collaborate on full stack projects<br>🤝 I’m looking for help with  cybersecurity<br>💬 I'm also passionate about photography<br>⚡ My other talents- I sing and a have a youtube channel @simmithapad
 
 
 ## 🌐 Socials:
